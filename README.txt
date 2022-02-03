@@ -1,4 +1,4 @@
-“The Atomic-Level Physiochemical Determinants of T cell Receptor Dissociation Kinetics”
+“A Computational Algorithm to Assess the Physiochemical Determinants of T Cell Receptor Dissociation Kinetics”
 
 #Data
 biofnc.py = calculation and compilation of gromacs outputs to final datasets
